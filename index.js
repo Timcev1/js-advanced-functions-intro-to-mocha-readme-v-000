@@ -19,5 +19,5 @@ function shouting(name){
 }
 
 function roundDown(number){
-  return `${number.to_i}`
+  return `${number.floor}`
 }
